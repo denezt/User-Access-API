@@ -16,7 +16,6 @@
 	</head>
 	<body>
 		<div class="container">
-		<!-- form id="userinfo" class="userinfo" method="get" action="usernamecheck.php" -->
 			<form id="userinfo" class="userinfo" method="post" action="usernamecheck.php">
 				<fieldset>
 					<legend>User Access API</legend>
